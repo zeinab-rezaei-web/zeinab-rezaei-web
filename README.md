@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeinab-rezaei-web](https://github.com/zeinab-rezaei-web)
 
-- 💬 Ask me about **HTML5,CSS3**
+- 💬 Ask me about **HTML5,CSS3,SASS,Bootstrap,Tailwind**
 
 - 📫 How to reach me **zeinab.rezaei.web@gmail.com**
 
