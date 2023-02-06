@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **FrontEndTopics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zeinab-rezaei-web](https://github.com/zeinab-rezaei-web)
+- 👨‍💻 All of my projects are available at my github: [https://github.com/zeinab-rezaei-web](https://github.com/zeinab-rezaei-web)
 
-- 💬 Ask me about **HTML5,CSS3,SASS,Bootstrap,Tailwind**
+- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind / JavaScript and react coming soon...**
 
 - 📫 How to reach me **zeinab.rezaei.web@gmail.com**
 
